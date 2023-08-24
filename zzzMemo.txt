@@ -1,0 +1,11 @@
+npm i express nodemon dotenv
+
+npm i mongoose
+npm i cors
+
+dans Package.json ->
+"scripts": {
+  "start": "nodemon server.js"
+}
+
+npm start
