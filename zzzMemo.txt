@@ -10,4 +10,5 @@ dans Package.json ->
 
 npm start
 
-npm install express body-parser bcrypt mysql
+npm install express body-parser bcrypt mysql2
+npm i cookie-parser jsonwebtoken

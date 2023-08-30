@@ -1,0 +1,28 @@
+24/08/23 22:13:36.049 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:13:40.287 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:15:01.879 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:15:01.879 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:15:01.879 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:15:01.879 -> ..\server.js 	 -> Connexion à la base de données réussie !
+24/08/23 22:15:18.549 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:15:18.549 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:15:18.549 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:16:05.826 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:16:05.826 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:16:05.826 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:16:08.050 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:16:08.050 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:16:08.050 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:17:31.505 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:17:31.505 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:17:31.505 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:19:47.286 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:19:47.286 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:19:47.286 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:21:33.087 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:21:33.087 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:21:33.087 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030
+24/08/23 22:21:43.963 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:21:53.752 -> ..\services\database.service.js 	 -> tentative de connection sur la database: todolist
+24/08/23 22:21:53.752 -> ..\services\database.service.js 	 -> Connexion à la base de données todolist réussie !
+24/08/23 22:21:53.752 -> ..\server.js 	 -> Serveur s'éxécute sur le PORT 3030

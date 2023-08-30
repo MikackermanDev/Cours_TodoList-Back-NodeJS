@@ -62,6 +62,7 @@ function createMikaLog(fichierOrigine) {
 		} else {
 			logFileName = "mikaApp-" + logDate + ".log";
 		}
+		console.log(logMessage);
 		fs.appendFile(
 			path.join(logCheminDossier, logFileName),
 			logMessage,
